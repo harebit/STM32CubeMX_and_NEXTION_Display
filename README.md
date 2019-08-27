@@ -4,4 +4,6 @@ In this project I transformed the Nextion base programs from Arduino into the de
 
 During the transmission of the data errors occurred again and again, so that I programmed an error redundancy. I could not find the cause, neither a level shifter nor a more powerful power supply could achieve an improvement.
 
-![](F:\Nextion-CubeMX\doc\Nextion.JPG)
+![](doc/Nextion.JPG) 
+
+harebit
