@@ -1,0 +1,74 @@
+/*
+ * This software inherits from STMicroelectronic and ITEAD Intelligent Systems Co..
+ * The images from Pixabay
+ * The license texts are in the accompanying license.txt file
+ */
+
+***** ITEAD Intelligent Systems Co. ***********************************
+
+ Copyright (C) 2014-2015 ITEAD Intelligent Systems Co., Ltd.
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License as
+ published by the Free Software Foundation; either version 2 of
+ the License, or (at your option) any later version.                            
+
+***** STMicroelectronic **********************************************
+
+Licensed under MCD-ST Liberty SW License Agreement V2, (the "License");
+You may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+        http://www.st.com/software_license_agreement_liberty_v2
+
+Unless required by applicable law or agreed to in writing, software 
+distributed under the License is distributed on an "AS IS" BASIS, 
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+***** Pixabay license ***********************************************
+
+Images and Videos on Pixabay are made available under the Pixabay License
+on the following terms. Under the Pixabay License you are granted an
+irrevocable, worldwide, non-exclusive and royalty free right to use,
+download, copy, modify or adapt the Images and Videos for commercial or
+non-commercial purposes. Attribution of the photographer or Pixabay is
+not required but is always appreciated. 
+The Pixabay License does not allow:
+a. 	sale or distribution of Images or Videos as digital stock photos or as
+	digital wallpapers;
+b.	 sale or distribution of Images or Videos e.g. as a posters, digital
+	prints or physical products, without adding any additional elements or
+	otherwise adding value;
+c.	depiction of identifiable persons in an offensive, pornographic,
+	obscene, immoral, defamatory or libelous way; or
+d.	any suggestion that there is an endorsement of products and services
+	by depicted persons, brands, and organisations, unless permission was granted.
+Please be aware that while all Images and Videos on Pixabay are free to 
+use for commercial and non-commercial purposes, depicted items in the Images
+or Videos, such as identifiable people, logos, brands, etc. may be subject
+to additional copyrights, property rights, privacy rights, trademarks etc.
+and may require the consent of a third party or the license of these rights
+ - particularly for commercial applications. Pixabay does not represent or
+warrant that such consents or licenses have been obtained, and expressly
+disclaims any liability in this respect.
+
+
+***** Software is Written from myself *******************************
+
+Copyright 2019 Harebit
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+MA 02110-1301, USA.
